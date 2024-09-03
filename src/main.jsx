@@ -10,7 +10,6 @@ import Login from './components/Login.jsx'
 import SignUp from './components/SignUp.jsx'
 import Home from "./pages/Home.jsx"
 import Orders from "./components/Orders.jsx"
-import AdminPanel from "./components/AdminPanel.jsx"
 
 
 
