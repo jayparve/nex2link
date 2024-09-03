@@ -45,11 +45,7 @@ const router = createBrowserRouter([
           </AuthLayout>
         )
       },
-      {
-        path: "/admin",
-        element: <AdminPanel />
-        
-      }
+  
 
     ]
   }
