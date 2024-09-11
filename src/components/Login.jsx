@@ -4,7 +4,7 @@ import { useForm } from "react-hook-form";
 import { useDispatch } from "react-redux";
 import { login as authLogin } from "../store/authSlice";
 import authService from "../appwrite/auth";
-import { Input} from ".";
+import  Input from "./Input";
 
 function Login() {
   const [loading, setLoading] = useState(false);
